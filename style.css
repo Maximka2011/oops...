@@ -265,6 +265,7 @@ main {
 }
 
 .oops_text {
+    z-index: -1;
     margin-top: 10px;
     display: flex;
     justify-content: center;
